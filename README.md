@@ -1,7 +1,7 @@
 # project-management
 
 6/25/25: This repo will serve as a hub for my personal projects
-- [PersonalSite](https://github.com/dazephster/psychic-octo-waddle) finished v1.2 b4 making this repo
+- [PersonalSite](https://github.com/dazephster/psychic-octo-waddle): Finished v1.2 b4 making this repo
 - [HabitsApp](https://github.com/dazephster/symmetrical-lamp)
 - [SuperTieBreaker](link-here)
 - [Frixion](link-here)
